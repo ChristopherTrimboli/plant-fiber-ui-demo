@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/plant-fiber-ui-demo/static/css/main.efe9f3ed.chunk.css",
-    "main.js": "/plant-fiber-ui-demo/static/js/main.37763c2b.chunk.js",
-    "main.js.map": "/plant-fiber-ui-demo/static/js/main.37763c2b.chunk.js.map",
+    "main.js": "/plant-fiber-ui-demo/static/js/main.c96e68a3.chunk.js",
+    "main.js.map": "/plant-fiber-ui-demo/static/js/main.c96e68a3.chunk.js.map",
     "runtime-main.js": "/plant-fiber-ui-demo/static/js/runtime-main.3298c37b.js",
     "runtime-main.js.map": "/plant-fiber-ui-demo/static/js/runtime-main.3298c37b.js.map",
-    "static/js/2.0d416e0b.chunk.js": "/plant-fiber-ui-demo/static/js/2.0d416e0b.chunk.js",
-    "static/js/2.0d416e0b.chunk.js.map": "/plant-fiber-ui-demo/static/js/2.0d416e0b.chunk.js.map",
+    "static/js/2.4cc70016.chunk.js": "/plant-fiber-ui-demo/static/js/2.4cc70016.chunk.js",
+    "static/js/2.4cc70016.chunk.js.map": "/plant-fiber-ui-demo/static/js/2.4cc70016.chunk.js.map",
     "index.html": "/plant-fiber-ui-demo/index.html",
-    "precache-manifest.52a7bd012ba549a508662abfddc75a0c.js": "/plant-fiber-ui-demo/precache-manifest.52a7bd012ba549a508662abfddc75a0c.js",
+    "precache-manifest.09040b34ff59ed78b188bd8b1a8f77cf.js": "/plant-fiber-ui-demo/precache-manifest.09040b34ff59ed78b188bd8b1a8f77cf.js",
     "service-worker.js": "/plant-fiber-ui-demo/service-worker.js",
     "static/css/main.efe9f3ed.chunk.css.map": "/plant-fiber-ui-demo/static/css/main.efe9f3ed.chunk.css.map",
-    "static/js/2.0d416e0b.chunk.js.LICENSE.txt": "/plant-fiber-ui-demo/static/js/2.0d416e0b.chunk.js.LICENSE.txt"
+    "static/js/2.4cc70016.chunk.js.LICENSE.txt": "/plant-fiber-ui-demo/static/js/2.4cc70016.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3298c37b.js",
-    "static/js/2.0d416e0b.chunk.js",
+    "static/js/2.4cc70016.chunk.js",
     "static/css/main.efe9f3ed.chunk.css",
-    "static/js/main.37763c2b.chunk.js"
+    "static/js/main.c96e68a3.chunk.js"
   ]
 }
