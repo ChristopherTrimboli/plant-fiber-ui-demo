@@ -1,15 +1,16 @@
-import React, { useRef, useState  } from 'react'
-import { Square } from 'plant-fiber-ui';
-import { Canvas, useFrame } from 'react-three-fiber'
+import React from 'react'
+import { Box } from 'plant-fiber-ui';
+import { VRCanvas, DefaultXRControllers } from 'react-xr' 
 
 const App = (props) => {
   return (
-    <Canvas>
+    <VRCanvas>
+      <DefaultXRControllers />
       <ambientLight />
       <pointLight position={[10, 10, 10]} />
-      <Square position={[-1.2, 0, 0]} useRef={useRef} useState={useState} useFrame={useFrame} />
-      <Square position={[1.2, 0, 0]} useRef={useRef} useState={useState} useFrame={useFrame} />
-    </Canvas>
+      <Box position={[-1.2, 0, 0]} />
+      <Box position={[1.2, 0, 0]} />
+    </VRCanvas>
   );
 }
 
