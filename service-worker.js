@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/plant-fiber-ui-demo/precache-manifest.f5f03efc4ad5a2e76a40413a1e414ef3.js"
+  "/plant-fiber-ui-demo/precache-manifest.7d804f62f453e28980a0f3ea1b09b560.js"
 );
 
 self.addEventListener('message', (event) => {
