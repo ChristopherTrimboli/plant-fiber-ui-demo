@@ -14,7 +14,7 @@
     "react-scripts": "3.4.1",
     "react-three-fiber": "^4.2.8",
     "react-xr": "^1.0.6",
-    "three": "^0.117.1"
+    "three": "^0.125.0"
   },
   "scripts": {
     "start": "HOST=0.0.0.0 HTTPS=true SSL_CRT_FILE=./keys/cert.pem SSL_KEY_FILE=./keys/key.pem react-scripts start",
